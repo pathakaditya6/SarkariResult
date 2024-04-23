@@ -1,0 +1,270 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+}
+#header{
+    border: none;
+    position: relative;
+    height: auto;
+    min-height: 175px;
+    max-width: 1010px;
+    width: 75%;
+    background-color: #ab183d;
+    margin-top: 5px; 
+}
+.logo{
+
+}
+#head-title{
+    padding-top: 40px;
+    font-weight: 700;
+    font-size: 45px;
+    color: #fff;
+}
+#nav{
+    width: 66%;
+    height: 50px;
+    margin: 0;
+    z-index: 99;
+    position: relative;
+    background-color: #000;
+}
+.navbar{
+    height: 50px;
+    padding: 0;
+    margin: 0;
+    position: absolute;
+    border-right: none;
+}
+.navbar li{
+    height: 30px;
+    width: 120px;
+    float: left;
+    text-align: center;
+    list-style: none;
+    font: bold;
+    padding: 0;
+    margin: 0;
+    background-color: #000;
+}
+.navbar a{
+    padding: 12px 0;
+    border-left: 1px solid #fff;
+    border-right: 1px solid #000;
+    text-decoration: none;
+    color: #fff;
+    display: block;
+}
+
+#tools{
+    border: 1px groove;
+    width: 370px;
+    height: 37px;
+    background-color: #0000a0;
+    font-size: x-large;
+    font-weight: 700;
+}
+
+table td{
+    width: 25%;
+}
+
+#img1{
+    width: 245px;
+    height: 60px;
+    background-color: #868a08;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img1 a{
+    background-color: #868a08;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img2{
+    width: 245px;
+    height: 60px;
+    background-color: #080a8a;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img2 a{
+    background-color: #080a8a;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img3{
+    width: 245px;
+    height: 60px;
+    background-color: #8a0845;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img3 a{
+    background-color: #8a0845;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img4{
+    width: 245px;
+    height: 60px;
+    background-color: #c05f0a;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img4 a{
+    background-color: #c05f0a;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img5{
+    width: 245px;
+    height: 60px;
+    background-color: #d43636;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img5 a{
+    background-color: #d43636;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img6{
+    width: 245px;
+    height: 60px;
+    background-color: #088a11;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img6 a{
+    background-color: #088a11;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img7{
+    width: 245px;
+    height: 60px;
+    background-color: #8a0876;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img7 a{
+    background-color: #8a0876;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#img8{
+    width: 245px;
+    height: 60px;
+    background-color: #268fb6;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+}
+#img8 a{
+    background-color: #268fb6;
+    font-size: 20px;
+    color: #fff;
+    font-weight: 700;
+    text-decoration: none;
+}
+
+#box1{
+    height: 800px;
+    width: 300px;
+    border: 1px;
+    border-style: groove;
+    border-color: #360;
+    background-color: #fff;
+    border: 2px solid #d2691e;
+}
+#heading{
+    background-color: #ab183d;
+    height: 35px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 25px;
+}
+#font a{
+    color: #fff;
+    text-decoration: none;
+}
+#view{
+    padding-top: 4px;
+    font-size: 18px;
+    font-weight: 700;
+    color: #0000a0;
+}
+#view a{
+    padding-top: 4px;
+    font-size: 18px;
+    font-weight: 700;
+    margin-left: 180px;
+    color: #0000a0;
+    text-decoration: none;
+}
+
+#box2{
+    height: 290px;
+    width: 300px;
+    border: 1px;
+    border-style: groove;
+    border-color: #360;
+    background-color: #fff;
+    border: 2px solid #d2691e;
+}
+
+.content-area{
+    float: none;
+    width: 74%;
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+    border: 2px solid #d2691e;
+}
+.content-area h2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+h2.heading{
+    background: #ab183d;
+    color: #fff;
+    padding: 6px;
+}
+.content-area p{
+    padding: 15px;
+    margin: 0;
+}
